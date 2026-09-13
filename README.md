@@ -48,9 +48,3 @@ src/
 javac -d out src/*.java
 java -cp out Main
 ```
-
-## Ideias de evolução
-
-- Criar eventos, itens e inimigos para cada sala.
-- Gerar o mapa dinamicamente.
-- Implementar uma AVL real, com inserções, rotações e balanceamento, caso esse seja o objetivo do repositório.
